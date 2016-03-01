@@ -14,7 +14,8 @@
 do
 
 function run(msg, matches)
-  return 'CRUEL V1 Supergroups\nsudo:@cruel0098 @Elyasgalikeshi \n\nchannel link: https://telegram.me/Channel_CRUEL_BoT\n\n\n\nSupport group link :@cruel_antispam_bot' 
+  return 'CRUEL V1 Supergroups\nsudo:@EMAMALIBOTONLAIN @Arabi373 @SOLTANI330 \n\nchannel link: https://telegram.me/Channel_IRANB0T\n\n\n\nSupport group link :@
+  ' 
   --[[ Checkout https://github.com/Josepdal/DBTeam
   --GNU GPL v2 license.]]
 end
